@@ -1,11 +1,11 @@
-h1 {font-size:50px; font-family:arial;}
+h1 {font-size:40px; font-family:arial;}
 
 .cutline { font-size:14px; bold;}
 
-.subhead {font-size:30px;}
+.subhead {font-size:25px;}
 
-.byline {font-size:20px; font-style:italic;}
+.byline {font-size:15px; font-style:italic;}
 
 body {font-size:12px; font-family: Times;}
 
-.contributed {font-size:15px; color:blue;}
+.contributed {font-size:12px; color:blue;}
